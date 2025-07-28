@@ -32,9 +32,9 @@ TFX is my way of giving back to the community and helping others build faster, b
 
 ## 📣 Let’s Connect
 
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/hemant-kumar-461867281/))
-- 🧠 [Medium Blog]([https://medium.com/@yourusername](https://medium.com/@hemantkumarhk))
-- 🛠 [Main DevOps Org – StackOps]((https://github.com/StackOps-From-Idea-to-Reality))
+- 🔗 Linkedin: [LinkedIn]((https://www.linkedin.com/in/hemant-kumar-461867281/))
+- 🧠 Medium: [Medium Blog]([https://medium.com/@yourusername](https://medium.com/@hemantkumarhk))
+- 🛠 StackOps: [Main DevOps Org – StackOps]((https://github.com/StackOps-From-Idea-to-Reality))
 
 ---
 
